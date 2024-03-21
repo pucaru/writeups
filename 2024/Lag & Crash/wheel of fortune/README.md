@@ -1,5 +1,5 @@
-#Wheel Of Fortune
-## Category: MISC
+Challenge: Wheel Of Fortune
+Category: MISC
 Seems like there is a recurring theme of wheels.....
 
 > Medium
@@ -12,9 +12,7 @@ I opened the file, googled `convert rgb codes to image online` and found this we
 
 ![Wheel](wheel.png)
 
-Although it froze my laptop every time I changed the width, I highly recommend it 10/10 👍👍👍👍
-
-(PS it took me 10 minutes to find the correct width of 3000, maybe I should have used python instead 👍)
+Although it froze my laptop every time I changed the width, I highly recommend it 10/10
 
 Now that I got this picture:
 ![win](win.png)

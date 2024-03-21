@@ -1,5 +1,5 @@
-#audiophile
-## Category: FORENSICS
+Challenge: Audiophile
+Category: FORENSICS
 
 > I love listening to music! did you know that while MP3 files are compressed and smaller, while WAV files are uncompressed and larger? Many people can't hear the difference but I certainly can!
 

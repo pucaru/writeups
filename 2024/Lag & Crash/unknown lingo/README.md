@@ -1,6 +1,6 @@
-#Unknown Lingo
-## Category: MISC
-
+Challenge: Unknown Lingo
+Category: MISC
+ 
 > Easy
 > It seems like this particular message is encoded in another esoteric language
 

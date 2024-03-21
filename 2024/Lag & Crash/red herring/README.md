@@ -1,5 +1,5 @@
-#The Elusive Red Herring
-## Category: FORENSICS
+Challenge: The Elusive Red Herring
+Category: FORENSICS
 
 >In the depths of the ocean, fish in general, are hard to come by due to global warming. However, I just found a red herring, with a weird brusied QR code attached on its skin? I don't assume it could be of use to you?
 

@@ -1,9 +1,7 @@
-#This Web Is Too Simple
-## Category: WEB
+Challenge: This Web Is Too Simple
+Category: WEB
 
 > A very simple web challenge
-
-(PS This is NOT SIMPLE for me)
 
 So I started off by doing SQL Injection on the login page:
 

@@ -1,5 +1,5 @@
-#GetItBack
-## Category: FORENSICS
+Challenge: GetItBack
+Category: FORENSICS
 
 > Eval was working on his major assignment report to submit to his teacher when suddenly his computer shut down unexpectedly due to a power outage, and he hadn't saved the report even once.
 
@@ -7,7 +7,7 @@
 
 This took `a lot` of research :D.
 
-First, I installed volality. 
+First, I installed volatility. 
 
 https://github.com/volatilityfoundation/volatility/wiki/Installation
 

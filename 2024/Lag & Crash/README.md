@@ -1,5 +1,6 @@
-# Hi, I'm pucaru!
+This directory contains my writeups for Lag and Crash 2024.
 
-This write-up mainly covers easy challenges! 
+I finished in 27th place in Global & 8th in Open Category :D
+This is also my first write-up (ever).
 
 
