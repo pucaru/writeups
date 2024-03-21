@@ -39,6 +39,7 @@ Then, I ran
 find . -type f -printf '%d/%p\n' | sort -n | cut -d '/' -f 2- | xargs cat
 ```
 
+Break down of the bash command!
 ```sh
 find . -type f -printf '%d/%p\n'
 ```
