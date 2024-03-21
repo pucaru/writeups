@@ -1,5 +1,5 @@
 Challenge: Free Food
-Category: OSINT
+Category: Osint
 
 This was the first challenge I did :D
 

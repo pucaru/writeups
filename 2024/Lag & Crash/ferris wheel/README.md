@@ -1,5 +1,5 @@
 Challenge: Ferris Wheel
-Category: MISC
+Category: Misc
 
 > Easy
 > I love ferris wheels! something about how they go so high up in the air!

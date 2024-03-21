@@ -1,5 +1,5 @@
 Challenge: Unknown Lingo
-Category: MISC
+Category: Misc
  
 > Easy
 > It seems like this particular message is encoded in another esoteric language
