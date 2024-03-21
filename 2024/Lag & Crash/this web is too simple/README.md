@@ -1,4 +1,5 @@
 Challenge: This Web Is Too Simple
+
 Category: Web
 
 > A very simple web challenge
